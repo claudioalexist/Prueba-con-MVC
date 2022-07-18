@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{12D39F40-C3F3-4CF7-BA81-AEA0529978AB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/js/site.js">
+    <Files>
+      <File FileName="Pages/Error.cshtml.cs" Line="1" Column="1" />
+      <File FileName="Pages/Privacy.cshtml.cs" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Pages/Movies/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/Index.cshtml.cs" Line="1" Column="1" />
+      <File FileName="wwwroot/js/site.js" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorPageMovie" expanded="True">
+            <Node name="RazorPageMovie" expanded="True">
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True">
+                  <Node name="site.js" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RazorPageMovie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
